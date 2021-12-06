@@ -1,0 +1,922 @@
+
+[2021-11-16T17:10:00.011] [INFO] YOLO - 17:00 定时任务
+[2021-11-16T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-16T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-16T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-16T17:10:00.200] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-16T17:10:00.202] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-16T17:10:00.216] [INFO] YOLO - 8366 { totalCount: 2,
+  pageCount: 1,
+  data:
+   [ { id: 11655,
+       apiId: '10B52B63-4C25-4B18-BE4B-35DA4C43A78E',
+       pstructId: '87C33548-FCE3-4494-97F7-9BAE30A25E9F',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/21楼/2102',
+       name: '2102',
+       floorName: '21楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/21楼/2102',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3914,
+       area: '47.72',
+       emoveInDate: 1638979200000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-162',
+       productSetting: null,
+       createTime: '2019-11-17 21:46:00',
+       updateTime: '2021-11-16 16:38:28',
+       queueCount: 35,
+       selectStartTime: '2021-11-16 10:00:00',
+       selectEndTime: '2021-11-17 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-11-16 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: null,
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-11-16 15:15:45',
+       queueCount: 23,
+       selectStartTime: '2021-11-16 10:00:00',
+       selectEndTime: '2021-11-17 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-11-16 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-11-16T17:10:00.217] [INFO] YOLO - sendEmail
+[2021-11-17T11:30:00.011] [INFO] YOLO - 11:30 定时任务
+[2021-11-17T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-17T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-17T11:30:00.015] [INFO] YOLO - 请求接口
+[2021-11-17T11:30:00.247] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T11:30:00.252] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T11:30:00.252] [INFO] YOLO - sendEmail
+[2021-11-17T11:30:01.219] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T17:10:00.010] [INFO] YOLO - 17:00 定时任务
+[2021-11-17T17:10:00.011] [INFO] YOLO - 请求接口
+[2021-11-17T17:10:00.011] [INFO] YOLO - 请求接口
+[2021-11-17T17:10:00.011] [INFO] YOLO - 请求接口
+[2021-11-17T17:10:00.194] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T17:10:00.220] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T17:10:00.228] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-17T17:10:00.228] [INFO] YOLO - sendEmail
+[2021-11-18T11:30:00.012] [INFO] YOLO - 11:30 定时任务
+[2021-11-18T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-11-18T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-18T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-18T11:30:00.227] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-18T11:30:00.227] [INFO] YOLO - sendEmail
+[2021-11-18T11:30:00.233] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-18T11:30:00.696] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-18T17:10:00.015] [INFO] YOLO - 17:00 定时任务
+[2021-11-18T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-11-18T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-11-18T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-11-18T17:10:00.220] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-18T17:10:00.258] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-18T17:10:00.274] [INFO] YOLO - 8366 { totalCount: 1,
+  pageCount: 1,
+  data:
+   [ { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: '',
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-11-18 16:34:25',
+       queueCount: 16,
+       selectStartTime: '2021-11-18 10:00:00',
+       selectEndTime: '2021-11-19 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-11-18 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-11-18T17:10:00.275] [INFO] YOLO - sendEmail
+[2021-11-18T21:54:23.073] [INFO] YOLO - start
+[2021-11-19T11:30:00.014] [INFO] YOLO - 11:30 定时任务
+[2021-11-19T11:30:00.015] [INFO] YOLO - 请求接口
+[2021-11-19T11:30:00.018] [INFO] YOLO - 请求接口
+[2021-11-19T11:30:00.018] [INFO] YOLO - 请求接口
+[2021-11-19T11:30:00.232] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-19T11:30:00.320] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-19T11:30:00.321] [INFO] YOLO - sendEmail
+[2021-11-19T11:30:00.334] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-19T17:10:00.014] [INFO] YOLO - 17:00 定时任务
+[2021-11-19T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-11-19T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-11-19T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-11-19T17:10:00.158] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-19T17:10:00.158] [INFO] YOLO - sendEmail
+[2021-11-19T17:10:00.164] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-19T17:10:00.405] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T11:30:00.023] [INFO] YOLO - 11:30 定时任务
+[2021-11-20T11:30:00.024] [INFO] YOLO - 请求接口
+[2021-11-20T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-11-20T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-11-20T11:30:00.166] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T11:30:00.167] [INFO] YOLO - sendEmail
+[2021-11-20T11:30:00.199] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T11:30:00.201] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T17:10:00.020] [INFO] YOLO - 17:00 定时任务
+[2021-11-20T17:10:00.028] [INFO] YOLO - 请求接口
+[2021-11-20T17:10:00.029] [INFO] YOLO - 请求接口
+[2021-11-20T17:10:00.029] [INFO] YOLO - 请求接口
+[2021-11-20T17:10:00.199] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T17:10:00.199] [INFO] YOLO - sendEmail
+[2021-11-20T17:10:00.203] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-20T17:10:00.204] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T11:30:00.032] [INFO] YOLO - 11:30 定时任务
+[2021-11-21T11:30:00.053] [INFO] YOLO - 请求接口
+[2021-11-21T11:30:00.054] [INFO] YOLO - 请求接口
+[2021-11-21T11:30:00.055] [INFO] YOLO - 请求接口
+[2021-11-21T11:30:00.258] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T11:30:00.261] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T11:30:00.269] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T11:30:00.269] [INFO] YOLO - sendEmail
+[2021-11-21T17:10:00.014] [INFO] YOLO - 17:00 定时任务
+[2021-11-21T17:10:00.026] [INFO] YOLO - 请求接口
+[2021-11-21T17:10:00.026] [INFO] YOLO - 请求接口
+[2021-11-21T17:10:00.027] [INFO] YOLO - 请求接口
+[2021-11-21T17:10:00.173] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T17:10:00.177] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T17:10:00.180] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-21T17:10:00.180] [INFO] YOLO - sendEmail
+[2021-11-22T11:30:00.029] [INFO] YOLO - 11:30 定时任务
+[2021-11-22T11:30:00.036] [INFO] YOLO - 请求接口
+[2021-11-22T11:30:00.036] [INFO] YOLO - 请求接口
+[2021-11-22T11:30:00.037] [INFO] YOLO - 请求接口
+[2021-11-22T11:30:00.252] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T11:30:00.253] [INFO] YOLO - sendEmail
+[2021-11-22T11:30:00.256] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T11:30:01.269] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T17:10:00.022] [INFO] YOLO - 17:00 定时任务
+[2021-11-22T17:10:00.023] [INFO] YOLO - 请求接口
+[2021-11-22T17:10:00.023] [INFO] YOLO - 请求接口
+[2021-11-22T17:10:00.024] [INFO] YOLO - 请求接口
+[2021-11-22T17:10:00.210] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T17:10:00.211] [INFO] YOLO - sendEmail
+[2021-11-22T17:10:00.214] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T17:10:00.564] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-22T22:45:46.871] [INFO] YOLO - start
+[2021-11-23T11:30:00.027] [INFO] YOLO - 11:30 定时任务
+[2021-11-23T11:30:00.029] [INFO] YOLO - 请求接口
+[2021-11-23T11:30:00.031] [INFO] YOLO - 请求接口
+[2021-11-23T11:30:00.031] [INFO] YOLO - 请求接口
+[2021-11-23T11:30:00.235] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T11:30:00.235] [INFO] YOLO - sendEmail
+[2021-11-23T11:30:00.256] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T11:30:00.521] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T17:10:00.015] [INFO] YOLO - 17:00 定时任务
+[2021-11-23T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-11-23T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-11-23T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-11-23T17:10:00.296] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T17:10:00.302] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T17:10:00.305] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-23T17:10:00.306] [INFO] YOLO - sendEmail
+[2021-11-24T11:30:00.012] [INFO] YOLO - 11:30 定时任务
+[2021-11-24T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-24T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-24T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-24T11:30:00.185] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-24T11:30:00.209] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-24T11:30:00.218] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-24T11:30:00.218] [INFO] YOLO - sendEmail
+[2021-11-24T17:10:00.011] [INFO] YOLO - 17:00 定时任务
+[2021-11-24T17:10:00.011] [INFO] YOLO - 请求接口
+[2021-11-24T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-24T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-24T17:10:00.177] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-24T17:10:00.177] [INFO] YOLO - sendEmail
+[2021-11-24T17:10:00.189] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-24T17:10:00.456] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T11:30:00.011] [INFO] YOLO - 11:30 定时任务
+[2021-11-25T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-11-25T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-25T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-25T11:30:00.192] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T11:30:00.197] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T11:30:00.197] [INFO] YOLO - sendEmail
+[2021-11-25T11:30:00.220] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T17:10:00.013] [INFO] YOLO - 17:00 定时任务
+[2021-11-25T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-11-25T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-11-25T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-11-25T17:10:00.189] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T17:10:00.196] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T17:10:00.198] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-25T17:10:00.198] [INFO] YOLO - sendEmail
+[2021-11-26T11:30:00.012] [INFO] YOLO - 11:30 定时任务
+[2021-11-26T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-26T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-11-26T11:30:00.014] [INFO] YOLO - 请求接口
+[2021-11-26T11:30:00.289] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-26T11:30:00.299] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-26T11:30:00.320] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-26T11:30:00.320] [INFO] YOLO - sendEmail
+[2021-11-26T17:10:00.018] [INFO] YOLO - 17:00 定时任务
+[2021-11-26T17:10:00.018] [INFO] YOLO - 请求接口
+[2021-11-26T17:10:00.019] [INFO] YOLO - 请求接口
+[2021-11-26T17:10:00.019] [INFO] YOLO - 请求接口
+[2021-11-26T17:10:00.171] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-26T17:10:00.183] [INFO] YOLO - 8366 { totalCount: 1,
+  pageCount: 1,
+  data:
+   [ { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: '',
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-11-26 17:03:54',
+       queueCount: 5,
+       selectStartTime: '2021-11-26 10:00:00',
+       selectEndTime: '2021-11-27 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-11-26 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-11-26T17:10:00.184] [INFO] YOLO - sendEmail
+[2021-11-26T17:10:00.198] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-26T22:05:14.490] [INFO] YOLO - start
+[2021-11-27T11:30:00.034] [INFO] YOLO - 11:30 定时任务
+[2021-11-27T11:30:00.056] [INFO] YOLO - 请求接口
+[2021-11-27T11:30:00.059] [INFO] YOLO - 请求接口
+[2021-11-27T11:30:00.059] [INFO] YOLO - 请求接口
+[2021-11-27T11:30:00.269] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T11:30:00.270] [INFO] YOLO - sendEmail
+[2021-11-27T11:30:00.284] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T11:30:00.548] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T17:10:00.016] [INFO] YOLO - 17:00 定时任务
+[2021-11-27T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-11-27T17:10:00.017] [INFO] YOLO - 请求接口
+[2021-11-27T17:10:00.017] [INFO] YOLO - 请求接口
+[2021-11-27T17:10:00.195] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T17:10:00.197] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T17:10:00.199] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-27T17:10:00.199] [INFO] YOLO - sendEmail
+[2021-11-28T11:30:00.021] [INFO] YOLO - 11:30 定时任务
+[2021-11-28T11:30:00.034] [INFO] YOLO - 请求接口
+[2021-11-28T11:30:00.035] [INFO] YOLO - 请求接口
+[2021-11-28T11:30:00.035] [INFO] YOLO - 请求接口
+[2021-11-28T11:30:00.257] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-28T11:30:00.338] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-28T11:30:00.339] [INFO] YOLO - sendEmail
+[2021-11-28T11:30:00.349] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-28T17:10:00.022] [INFO] YOLO - 17:00 定时任务
+[2021-11-28T17:10:00.041] [INFO] YOLO - 请求接口
+[2021-11-28T17:10:00.041] [INFO] YOLO - 请求接口
+[2021-11-28T17:10:00.042] [INFO] YOLO - 请求接口
+[2021-11-28T17:10:00.231] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-28T17:10:00.235] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-28T17:10:00.235] [INFO] YOLO - sendEmail
+[2021-11-28T17:10:00.258] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-29T11:30:00.014] [INFO] YOLO - 11:30 定时任务
+[2021-11-29T11:30:00.015] [INFO] YOLO - 请求接口
+[2021-11-29T11:30:00.015] [INFO] YOLO - 请求接口
+[2021-11-29T11:30:00.015] [INFO] YOLO - 请求接口
+[2021-11-29T11:30:00.216] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-29T11:30:00.252] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-29T11:30:00.253] [INFO] YOLO - sendEmail
+[2021-11-29T11:30:00.455] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-29T17:10:00.012] [INFO] YOLO - 17:00 定时任务
+[2021-11-29T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-11-29T17:10:00.013] [INFO] YOLO - 请求接口
+[2021-11-29T17:10:00.013] [INFO] YOLO - 请求接口
+[2021-11-30T11:30:00.011] [INFO] YOLO - 11:30 定时任务
+[2021-11-30T11:30:00.024] [INFO] YOLO - 请求接口
+[2021-11-30T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-11-30T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-11-30T11:30:00.214] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-30T11:30:00.214] [INFO] YOLO - sendEmail
+[2021-11-30T11:30:00.219] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-30T11:30:00.255] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-30T17:10:00.024] [INFO] YOLO - 17:00 定时任务
+[2021-11-30T17:10:00.024] [INFO] YOLO - 请求接口
+[2021-11-30T17:10:00.025] [INFO] YOLO - 请求接口
+[2021-11-30T17:10:00.025] [INFO] YOLO - 请求接口
+[2021-11-30T17:10:00.204] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-11-30T17:10:00.242] [INFO] YOLO - 8366 { totalCount: 1,
+  pageCount: 1,
+  data:
+   [ { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: '',
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-11-30 16:54:48',
+       queueCount: 25,
+       selectStartTime: '2021-11-30 10:00:00',
+       selectEndTime: '2021-12-01 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-11-30 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-11-30T17:10:00.244] [INFO] YOLO - sendEmail
+[2021-11-30T17:10:00.317] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T11:30:00.011] [INFO] YOLO - 11:30 定时任务
+[2021-12-01T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-12-01T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-12-01T11:30:00.013] [INFO] YOLO - 请求接口
+[2021-12-01T11:30:00.189] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T11:30:00.190] [INFO] YOLO - sendEmail
+[2021-12-01T11:30:00.216] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T11:30:00.318] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T17:10:00.016] [INFO] YOLO - 17:00 定时任务
+[2021-12-01T17:10:00.017] [INFO] YOLO - 请求接口
+[2021-12-01T17:10:00.017] [INFO] YOLO - 请求接口
+[2021-12-01T17:10:00.017] [INFO] YOLO - 请求接口
+[2021-12-01T17:10:00.189] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T17:10:00.192] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-01T17:10:00.197] [INFO] YOLO - 8366 { totalCount: 1,
+  pageCount: 1,
+  data:
+   [ { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: '',
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-12-01 17:00:12',
+       queueCount: 18,
+       selectStartTime: '2021-12-01 10:00:00',
+       selectEndTime: '2021-12-02 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-01 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-12-01T17:10:00.198] [INFO] YOLO - sendEmail
+[2021-12-02T11:30:00.015] [INFO] YOLO - 11:30 定时任务
+[2021-12-02T11:30:00.016] [INFO] YOLO - 请求接口
+[2021-12-02T11:30:00.016] [INFO] YOLO - 请求接口
+[2021-12-02T11:30:00.016] [INFO] YOLO - 请求接口
+[2021-12-02T11:30:00.204] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-02T11:30:00.204] [INFO] YOLO - sendEmail
+[2021-12-02T11:30:00.208] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-02T11:30:00.376] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-02T17:10:00.013] [INFO] YOLO - 17:00 定时任务
+[2021-12-02T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-12-02T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-12-02T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-12-02T17:10:00.223] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-02T17:10:00.244] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-02T17:10:00.244] [INFO] YOLO - sendEmail
+[2021-12-02T17:10:00.247] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T11:30:00.011] [INFO] YOLO - 11:30 定时任务
+[2021-12-03T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-12-03T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-12-03T11:30:00.012] [INFO] YOLO - 请求接口
+[2021-12-03T11:30:00.305] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T11:30:00.305] [INFO] YOLO - sendEmail
+[2021-12-03T11:30:00.309] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T11:30:00.310] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T17:10:00.020] [INFO] YOLO - 17:00 定时任务
+[2021-12-03T17:10:00.021] [INFO] YOLO - 请求接口
+[2021-12-03T17:10:00.021] [INFO] YOLO - 请求接口
+[2021-12-03T17:10:00.022] [INFO] YOLO - 请求接口
+[2021-12-03T17:10:00.295] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T17:10:00.322] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-03T17:10:00.327] [INFO] YOLO - 8366 { totalCount: 1,
+  pageCount: 1,
+  data:
+   [ { id: 8810,
+       apiId: '4B66E83D-A043-47AF-9352-21699F968844',
+       pstructId: '0F5DC25F-F3A2-461A-AF5E-6DC060DEDD84',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       name: '2802',
+       floorName: '28楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/28楼/2802',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3981,
+       area: '47.83',
+       emoveInDate: 1639065600000,
+       secSpan: 1637028000000,
+       code: '15125/104/399-11-12-218',
+       productSetting: '',
+       createTime: '2019-11-17 21:26:29',
+       updateTime: '2021-12-03 16:58:58',
+       queueCount: 16,
+       selectStartTime: '2021-12-03 10:00:00',
+       selectEndTime: '2021-12-04 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-03 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-12-03T17:10:00.327] [INFO] YOLO - sendEmail
+[2021-12-04T11:30:00.028] [INFO] YOLO - 11:30 定时任务
+[2021-12-04T11:30:00.028] [INFO] YOLO - 请求接口
+[2021-12-04T11:30:00.029] [INFO] YOLO - 请求接口
+[2021-12-04T11:30:00.029] [INFO] YOLO - 请求接口
+[2021-12-04T11:30:00.196] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-04T11:30:00.241] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-04T11:30:00.241] [INFO] YOLO - sendEmail
+[2021-12-04T11:30:00.395] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-04T17:10:00.012] [INFO] YOLO - 17:00 定时任务
+[2021-12-04T17:10:00.012] [INFO] YOLO - 请求接口
+[2021-12-04T17:10:00.013] [INFO] YOLO - 请求接口
+[2021-12-04T17:10:00.013] [INFO] YOLO - 请求接口
+[2021-12-04T17:10:00.318] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-04T17:10:00.343] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-04T17:10:00.343] [INFO] YOLO - sendEmail
+[2021-12-04T17:10:00.673] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T11:30:00.012] [INFO] YOLO - 11:30 定时任务
+[2021-12-05T11:30:00.028] [INFO] YOLO - 请求接口
+[2021-12-05T11:30:00.029] [INFO] YOLO - 请求接口
+[2021-12-05T11:30:00.029] [INFO] YOLO - 请求接口
+[2021-12-05T11:30:00.299] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T11:30:00.303] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T11:30:00.336] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T11:30:00.336] [INFO] YOLO - sendEmail
+[2021-12-05T17:10:00.015] [INFO] YOLO - 17:00 定时任务
+[2021-12-05T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-12-05T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-12-05T17:10:00.016] [INFO] YOLO - 请求接口
+[2021-12-05T17:10:00.199] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T17:10:00.232] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T17:10:00.247] [INFO] YOLO - 8366 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-05T17:10:00.247] [INFO] YOLO - sendEmail
+[2021-12-06T11:30:00.013] [INFO] YOLO - 11:30 定时任务
+[2021-12-06T11:30:00.023] [INFO] YOLO - 请求接口
+[2021-12-06T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-12-06T11:30:00.025] [INFO] YOLO - 请求接口
+[2021-12-06T11:30:00.202] [INFO] YOLO - 8366 { totalCount: 5,
+  pageCount: 1,
+  data:
+   [ { id: 14410,
+       apiId: '4E5A121E-57EB-40C3-BAAB-A05CF288ACDB',
+       pstructId: 'F9C0550C-C3B6-471B-91CA-3F4889D47C62',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/12楼/1203',
+       name: '1203',
+       floorName: '12楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/12楼/1203',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3827,
+       area: '47.72',
+       emoveInDate: 1640793600000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-91',
+       productSetting: '',
+       createTime: '2019-11-17 22:03:46',
+       updateTime: '2021-12-06 11:28:51',
+       queueCount: 4,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 11:30:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 12187,
+       apiId: '20588442-6478-4919-8896-C58C6153D165',
+       pstructId: '9E39BF6D-32E5-4FE9-8C1A-1C9128260776',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/14楼/1403',
+       name: '1403',
+       floorName: '14楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/14楼/1403',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3847,
+       area: '47.72',
+       emoveInDate: 1641657600000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-107',
+       productSetting: '',
+       createTime: '2019-11-17 21:49:26',
+       updateTime: '2021-12-06 10:52:35',
+       queueCount: 3,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 11:30:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 11815,
+       apiId: 'CC4F9EFA-1F5A-406C-AD64-73D1C6099C2D',
+       pstructId: '8F591EA8-162C-4D40-95B3-2B2DE42B22FB',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/27楼/2707',
+       name: '2707',
+       floorName: '27楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/27楼/2707',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3972,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-215',
+       productSetting: '',
+       createTime: '2019-11-17 21:47:02',
+       updateTime: '2021-12-06 11:29:21',
+       queueCount: 2,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 11:30:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 11572,
+       apiId: '0E538EE6-AD4C-46A7-A20D-307793AA1B47',
+       pstructId: '8427241A-534D-43A3-B944-13CCC21F061C',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/22楼/2202',
+       name: '2202',
+       floorName: '22楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/22楼/2202',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3923,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-170',
+       productSetting: '',
+       createTime: '2019-11-17 21:45:28',
+       updateTime: '2021-12-06 11:12:34',
+       queueCount: 2,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 11:30:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 9227,
+       apiId: '139D0D38-A5B1-484A-89FA-11C229116164',
+       pstructId: '227C81F2-FF45-4018-865D-1C2D2DF56789',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/26楼/2605',
+       name: '2605',
+       floorName: '26楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/26楼/2605',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3962,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-205',
+       productSetting: '',
+       createTime: '2019-11-17 21:29:31',
+       updateTime: '2021-12-06 11:19:59',
+       queueCount: 3,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 11:30:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-12-06T11:30:00.204] [INFO] YOLO - sendEmail
+[2021-12-06T11:30:00.209] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-06T11:30:00.683] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-06T17:10:00.013] [INFO] YOLO - 17:00 定时任务
+[2021-12-06T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-12-06T17:10:00.014] [INFO] YOLO - 请求接口
+[2021-12-06T17:10:00.015] [INFO] YOLO - 请求接口
+[2021-12-06T17:10:00.164] [INFO] YOLO - 8392 { totalCount: 0, pageCount: 0, data: [] }
+[2021-12-06T17:10:00.187] [INFO] YOLO - 8366 { totalCount: 5,
+  pageCount: 1,
+  data:
+   [ { id: 14410,
+       apiId: '4E5A121E-57EB-40C3-BAAB-A05CF288ACDB',
+       pstructId: 'F9C0550C-C3B6-471B-91CA-3F4889D47C62',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/12楼/1203',
+       name: '1203',
+       floorName: '12楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/12楼/1203',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3827,
+       area: '47.72',
+       emoveInDate: 1640793600000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-91',
+       productSetting: '',
+       createTime: '2019-11-17 22:03:46',
+       updateTime: '2021-12-06 16:50:31',
+       queueCount: 9,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 12187,
+       apiId: '20588442-6478-4919-8896-C58C6153D165',
+       pstructId: '9E39BF6D-32E5-4FE9-8C1A-1C9128260776',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/14楼/1403',
+       name: '1403',
+       floorName: '14楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/14楼/1403',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3847,
+       area: '47.72',
+       emoveInDate: 1641657600000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-107',
+       productSetting: '',
+       createTime: '2019-11-17 21:49:26',
+       updateTime: '2021-12-06 16:36:23',
+       queueCount: 8,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 11815,
+       apiId: 'CC4F9EFA-1F5A-406C-AD64-73D1C6099C2D',
+       pstructId: '8F591EA8-162C-4D40-95B3-2B2DE42B22FB',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/27楼/2707',
+       name: '2707',
+       floorName: '27楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/27楼/2707',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3972,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-215',
+       productSetting: '',
+       createTime: '2019-11-17 21:47:02',
+       updateTime: '2021-12-06 16:33:24',
+       queueCount: 9,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 11572,
+       apiId: '0E538EE6-AD4C-46A7-A20D-307793AA1B47',
+       pstructId: '8427241A-534D-43A3-B944-13CCC21F061C',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/22楼/2202',
+       name: '2202',
+       floorName: '22楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/22楼/2202',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3923,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-170',
+       productSetting: '',
+       createTime: '2019-11-17 21:45:28',
+       updateTime: '2021-12-06 15:38:58',
+       queueCount: 8,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' },
+     { id: 9227,
+       apiId: '139D0D38-A5B1-484A-89FA-11C229116164',
+       pstructId: '227C81F2-FF45-4018-865D-1C2D2DF56789',
+       fullName: '川和路399弄（张江兴科苑）/11-12号/26楼/2605',
+       name: '2605',
+       floorName: '26楼',
+       propertyPstructId: '92510682-8acc-4e30-ad45-1ab088b6339d',
+       project: [Object],
+       address: '川和路399弄（张江兴科苑）/11-12号/26楼/2605',
+       state: 'Pending',
+       typeName: 1,
+       splitedMark: 0,
+       splitedSex: 0,
+       rent: 3962,
+       area: '47.72',
+       emoveInDate: 1640966400000,
+       secSpan: 1638756000000,
+       code: '15125/104/399-11-12-205',
+       productSetting: '',
+       createTime: '2019-11-17 21:29:31',
+       updateTime: '2021-12-06 14:49:13',
+       queueCount: 10,
+       selectStartTime: '2021-12-06 10:00:00',
+       selectEndTime: '2021-12-07 09:30:00',
+       mine: null,
+       queue: [],
+       cancelMark: 0,
+       isSearchRoom: 0,
+       period: [Object],
+       systemTime: '2021-12-06 17:10:00',
+       periodStatusText: null,
+       queuePosition: null,
+       selectable: true,
+       propertyName: '川和路399弄（张江兴科苑）' } ] }
+[2021-12-06T17:10:00.190] [INFO] YOLO - sendEmail
+[2021-12-06T17:10:00.193] [INFO] YOLO - 8443 { totalCount: 0, pageCount: 0, data: [] }

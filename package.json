@@ -1,0 +1,18 @@
+{
+  "name": "public-rental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cron": "^1.8.2",
+    "lodash": "^4.17.21",
+    "log4js": "^6.3.0",
+    "nodemailer": "^6.6.3"
+  }
+}
