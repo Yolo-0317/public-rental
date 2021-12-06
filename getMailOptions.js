@@ -4,15 +4,22 @@ const projectIdMap = {
   // 三旋路506弄（绿波家园）
   LVBOJIAYUAN: 8392,
   // 杨南路694弄
-  YANGNANLU694:8443,
+  YANGNANLU694: 8443,
+  // 东书房路560弄
+  DONGSHUFANGLU560: 8334,
+  // 三林新村
+  SANLINXINCUN: 8441,
 };
 
 const projectMailAddr = {
-  [`${projectIdMap.ZHANGJIANG_XINGKEYUAN}`]:
-    "mu-dan.wang@microfocus.com, huan.yu@datayes.com, jl381169437@gmail.com, xue.li3@microfocus.com",
+  [`${projectIdMap.ZHANGJIANG_XINGKEYUAN}`]: "xue.li3@microfocus.com",
   [`${projectIdMap.LVBOJIAYUAN}`]: "xue.li3@microfocus.com",
-  [`${projectIdMap.YANGNANLU694}`]: "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
-  // [`${projectIdMap.YANGNANLU694}`]: "huan.yu@datayes.com",
+  [`${projectIdMap.YANGNANLU694}`]:
+    "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
+  [`${projectIdMap.DONGSHUFANGLU560}`]:
+    "mu-dan.wang@microfocus.com, huan.yu@datayes.com, jl381169437@gmail.com",
+  [`${projectIdMap.SANLINXINCUN}`]:
+    "mu-dan.wang@microfocus.com, huan.yu@datayes.com, jl381169437@gmail.com",
 };
 
 const getHtmlWithProjectId = (projectId) =>
@@ -44,7 +51,7 @@ const getMailOptions = (projectId, noHouse) => {
   }
   return {
     ...mailOptions,
-    to: projectMailAddr[projectId] || '',
+    to: projectMailAddr[projectId] || "",
     html: getHtmlWithProjectId(projectId),
   };
 };
