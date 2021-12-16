@@ -7,19 +7,24 @@ const projectIdMap = {
   YANGNANLU694: 8443,
   // 东书房路560弄
   DONGSHUFANGLU560: 8334,
-  // 三林新村
-  SANLINXINCUN: 8441,
+  // 永泰路136弄
+  SANLINXINCUN: 8321,
+  // 渡桥路78弄（中骏柏景湾）
+  DUQIAOLU78: 8347
 };
 
+const emails = [
+  "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
+  "xue.li3@microfocus.com"
+]
+
 const projectMailAddr = {
-  [`${projectIdMap.ZHANGJIANG_XINGKEYUAN}`]: "xue.li3@microfocus.com",
-  [`${projectIdMap.LVBOJIAYUAN}`]: "xue.li3@microfocus.com",
-  [`${projectIdMap.YANGNANLU694}`]:
-    "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
-  [`${projectIdMap.DONGSHUFANGLU560}`]:
-    "mu-dan.wang@microfocus.com, huan.yu@datayes.com, jl381169437@gmail.com",
-  [`${projectIdMap.SANLINXINCUN}`]:
-    "mu-dan.wang@microfocus.com, huan.yu@datayes.com, jl381169437@gmail.com",
+  [`${projectIdMap.ZHANGJIANG_XINGKEYUAN}`]: emails[1],
+  [`${projectIdMap.LVBOJIAYUAN}`]: emails[1],
+  [`${projectIdMap.YANGNANLU694}`]: emails[0],
+  [`${projectIdMap.DONGSHUFANGLU560}`]: emails[0],
+  [`${projectIdMap.SANLINXINCUN}`]: emails[0],
+  [`${projectIdMap.DUQIAOLU78}`]: emails[0],
 };
 
 const getHtmlWithProjectId = (projectId) =>
