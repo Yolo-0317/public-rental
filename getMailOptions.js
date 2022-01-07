@@ -10,12 +10,15 @@ const projectIdMap = {
   // 永泰路136弄
   SANLINXINCUN: 8321,
   // 渡桥路78弄（中骏柏景湾）
-  DUQIAOLU78: 8347
+  DUQIAOLU78: 8347,
+  // 华发四季苑
+  HUAFASIJI: 8390
 };
 
 const emails = [
   "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
-  "xue.li3@microfocus.com"
+  "xue.li3@microfocus.com",
+  "huan.yu@datayes.com, jl381169437@gmail.com"
 ]
 
 const projectMailAddr = {
@@ -25,6 +28,7 @@ const projectMailAddr = {
   [`${projectIdMap.DONGSHUFANGLU560}`]: emails[0],
   [`${projectIdMap.SANLINXINCUN}`]: emails[0],
   [`${projectIdMap.DUQIAOLU78}`]: emails[0],
+  [`${projectIdMap.HUAFASIJI}`]: emails[0],
 };
 
 const getHtmlWithProjectId = (projectId) =>
@@ -40,8 +44,7 @@ const noHoseOptions = {
   ...mailOptions,
   subject: "没房，监控常规提醒",
   html: "<div>O(∩_∩)O~</div>",
-  // to: "mu-dan.wang@microfocus.com,huan.yu@datayes.com",
-  to: "huan.yu@datayes.com, jl381169437@gmail.com",
+  to: emails[2],
 };
 
 /**
