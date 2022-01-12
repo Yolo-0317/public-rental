@@ -16,8 +16,8 @@ const projectIdMap = {
 };
 
 const emails = [
-  "mu-dan.wang@microfocus.com, jl381169437@gmail.com, huan.yu@datayes.com",
-  "xue.li3@microfocus.com",
+  "jl381169437@gmail.com, huan.yu@datayes.com",
+  "huan.yu@datayes.com", // lixue
   "huan.yu@datayes.com, jl381169437@gmail.com"
 ]
 
